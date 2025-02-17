@@ -1,4 +1,5 @@
-# Statistics-Notes-For-Data-Science
+# Statistics-Notes-For-Data-Science(phd)
+
 
 ![](https://github.com/praj2408/Statistics-Notes-for-Data-Science.-Practical-and-Theory/blob/main/Statistics%20Notes/01%20Intro%20to%20Stats.jpg)
 
